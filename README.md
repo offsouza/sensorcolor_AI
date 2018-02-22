@@ -29,7 +29,7 @@ A captura dos dados é feita pela serial, ou seja, é preciso que as informaçõ
 
 ## Sensor
 
-Este arquivo tem como foco a análise dos dados, ou seja, o código em python. Logo, não aboradarei  qual sensor e microcontrolador utilizei no projeto. Porém qualquer um irá funcionar, basta que coloque os dados separados por vírgulas. 
+Este arquivo tem como foco a análise dos dados, ou seja, o código em python. Logo, não abordarei  qual sensor e microcontrolador utilizei no projeto. Porém qualquer um irá funcionar, basta que coloque os dados separados por vírgulas. 
 
 contato: otaviosouza3m@hotmail.com
 
