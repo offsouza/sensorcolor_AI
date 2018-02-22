@@ -1,6 +1,6 @@
-#  Análise de Dados utilizando algorítimo de Inteligência Artificial (AI) - KNN
+#  Análise de Dados utilizando algoritmo de Inteligência Artificial (AI) - KNN
 
-Este é um projeto onde é feito um aprendizado supervisionado no sensor, onde atrávez de coleta de dados emitido pelo sensor classificamos e armazenamos esse dados, para que o algoritimo reconheça padrôes no dados e depois através de um teste cego o algoritimo verifica quais dados a amostra teste se aproxima e a classifica de acordo com o banco.
+Este é um projeto onde é feito um aprendizado supervisionado no sensor, onde através de coleta de dados emitido pelo sensor classificamos e armazenamos esse dados, para que o algoritimo reconheça padrões no dados e depois através de um teste cego o algoritmo verifica quais dados a amostra teste se aproxima e a classifica de acordo com o banco.
 
 ## Requisitos
 ###### Bibliotecas Utilizadas: 
@@ -20,11 +20,11 @@ Este é um projeto onde é feito um aprendizado supervisionado no sensor, onde a
 
 ## Obtenção dos Dados 
 
-A captura dos dados é feita pela serial, ou seja, é preciso que as informações do sensor chega pela serial. É preciso colocar a porta que está sendo transmitido os dados no código ` py_colorimetroV5.py ` dentro da função `def ino ` presente no script. 
+A captura dos dados é feita pela serial, ou seja, é preciso que as informações do sensor chegam pela serial. É preciso colocar a porta que está sendo transmitido os dados no código ` py_colorimetroV5.py ` dentro da função `def ino ` presente no script. 
 
 ## Armazenamento dos Dados 
 
-É os dados são gravados em um arquivo .csv em que é possivel alterar o nome do arquivo mudando a segunda linha de código da função def __init__ . Onde como padrão o nome é `colorimetroteste1.csv`.
+É os dados são gravados em um arquivo .csv em que é possível alterar o nome do arquivo mudando a segunda linha de código da função def __init__ . Onde como padrão o nome é `colorimetroteste1.csv`.
 
 
 ## Sensor
