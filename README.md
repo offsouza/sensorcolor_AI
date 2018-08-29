@@ -1,6 +1,6 @@
-#  Análise de Dados utilizando algoritmo de Inteligência Artificial (AI) - KNN
+#  Análise de Fluidos utilizando algoritmo de Aprendizado de Máquina.
 
-Este é um projeto onde é feito um aprendizado supervisionado no sensor, onde através de coleta de dados emitido pelo sensor classificamos e armazenamos esse dados, para que o algoritimo reconheça padrões no dados e depois através de um teste cego o algoritmo verifica quais dados a amostra teste se aproxima e a classifica de acordo com o banco.
+Este é um projeto onde é feito um aprendizado supervisionado no sensor , onde através de coleta de dados emitido pelo sensor classificamos e armazenamos esse dados, para que o algoritimo reconheça padrões no dados e depois através de um teste cego o algoritmo verifica quais dados a amostra teste se aproxima e a classifica de acordo com o banco.
 
 ## Requisitos
 ###### Bibliotecas Utilizadas: 
